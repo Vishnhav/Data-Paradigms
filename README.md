@@ -1,3 +1,3 @@
 # Data-Paradigms
 
-* A paper drawing comparisions of structured and unstructured data.
+* A paper drawing comparisions between structured and unstructured data sets.
